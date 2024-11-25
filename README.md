@@ -39,7 +39,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    git clone https://github.com/KishanthSelvaraj/Admin-Dashboard.git
-   cd your-repo-name
+   cd Admin-Dashboard
 
 2. Install dependencies:
 
