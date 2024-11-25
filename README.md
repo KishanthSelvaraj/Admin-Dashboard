@@ -38,7 +38,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 
-   git clone https://github.com/KishanthSelvaraj/your-repo-name.git
+   git clone https://github.com/KishanthSelvaraj/Admin-Dashboard.git
    cd your-repo-name
 
 2. Install dependencies:
