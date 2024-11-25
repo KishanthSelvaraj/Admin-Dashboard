@@ -31,8 +31,8 @@ export const roles = [
 export const users = [
   {
     id: '1',
-    name: 'Sarah Chen',
-    email: 'sarah.chen@example.com',
+    name: 'Priyanka M',
+    email: 'priya@gmail.com',
     role: roles[0],
     status: 'active',
     lastLogin: '2024-03-10T15:30:00Z',
@@ -40,8 +40,8 @@ export const users = [
   },
   {
     id: '2',
-    name: 'Michael Rodriguez',
-    email: 'michael.r@example.com',
+    name: 'Kishanth S',
+    email: 'kishanthnkl@gmail.com',
     role: roles[1],
     status: 'active',
     lastLogin: '2024-03-09T10:15:00Z',
@@ -49,8 +49,8 @@ export const users = [
   },
   {
     id: '3',
-    name: 'Alex Thompson',
-    email: 'alex.t@example.com',
+    name: 'Gavaskar S',
+    email: 'gavaskarnkl@gmail.com',
     role: roles[2],
     status: 'inactive',
     lastLogin: '2024-03-01T08:45:00Z',
